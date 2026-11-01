@@ -4,6 +4,8 @@
 
 **Senior Network Security Engineer** · Linux · firewalls · routing · Rust
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davide--righi-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-righi)
+
 </div>
 
 I work on the boundary between networks and security: routing, firewalling, kernel exposure and the tooling
