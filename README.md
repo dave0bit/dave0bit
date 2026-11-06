@@ -13,16 +13,21 @@ that makes all of it observable. I like small, auditable tools that do one job w
 
 ## Featured project
 
-### 🛡️ [Argo](https://github.com/dave0bit/argo)
+### 🛡️ [PYLA — Protect Your Local Access](https://github.com/pyla-dev/pyla)
 
-A desktop control centre for the Linux firewall, built with Rust and Tauri.
+<a href="https://pyla.space"><img src="https://pyla.space/docs/logo_icon_400.png" alt="PYLA" width="72" align="right"></a>
+
+An open source firewall GUI for Ubuntu, built with Rust and Tauri.
 
 - **UFW rule sets** with diff preview, atomic apply and automatic rollback
 - **Full nftables ruleset** browser — UFW, Docker and libvirt chains, with live counters
+- **Exposure check** — every listening socket evaluated against the live kernel ruleset, per address family
 - **CVE panel** fed by the Ubuntu Security API, matched against the kernel you are actually running
 - **Reversible, per-subsystem mitigations** for kernel CVEs that are still unpatched
 
-[![Argo](https://img.shields.io/badge/repo-dave0bit%2Fargo-2f6fab?logo=github)](https://github.com/dave0bit/argo)
+[![PYLA](https://img.shields.io/badge/repo-pyla--dev%2Fpyla-2f6fab?logo=github)](https://github.com/pyla-dev/pyla)
+[![Release](https://img.shields.io/github/v/release/pyla-dev/pyla?label=release)](https://github.com/pyla-dev/pyla/releases/latest)
+[![Site](https://img.shields.io/badge/site-pyla.space-ff8c1a)](https://pyla.space)
 [![Rust](https://img.shields.io/badge/Rust-b7410e?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-24c8db?logo=tauri&logoColor=white)](https://tauri.app/)
 
